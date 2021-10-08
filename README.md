@@ -14,7 +14,7 @@ scikit-learn==0.22.2.post1
 scikit-opt==0.6.1
 ```
 
-The data collected by interfaces and aranged by rings are saved in ***data_ring_extracted_by_day/***.
+The original data collected by interfaces and aranged by rings are saved in ***data_ring_extracted_by_day/***.
 
 The pre-processed data are in ***preprocessed_data/t60_s5/***. And the script ***data_preparation.py*** is for data engineering for model training and test. 
 
